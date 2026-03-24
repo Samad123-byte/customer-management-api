@@ -1,0 +1,14 @@
+# Node dependencies
+node_modules/
+
+# Build artifacts
+dist/
+build/
+
+# Secret files
+.env
+.env.local
+
+# Operating System files
+.DS_Store
+Thumbs.db
