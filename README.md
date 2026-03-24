@@ -53,14 +53,7 @@ A secure backend REST API built with Node.js and Express that provides user auth
 
 ---
 
-## ⚙️ Installation & Setup
 
-### 1. Clone the repository
-
-```
-git clone https://github.com/your-username/secure-auth-api.git
-cd secure-auth-api
-```
 
 ### 2. Install dependencies
 
@@ -142,15 +135,4 @@ Body:
 * Input validation using Joi
 * Rate limiting & security enhancements
 * Refresh token implementation
-
----
-
-## 📄 License
-
-This project is open-source and available under the MIT License.
-
----
-
-## 🙌 Author
-
-Developed by Abdul Sammad Khan
+d Khan
